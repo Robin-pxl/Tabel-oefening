@@ -1,0 +1,16 @@
+*{
+    font-family:Arial;
+    padding: 10px;
+}
+
+thead {
+    background-color: indianred;
+    color: white;
+}
+tbody {
+    background-color: lightgray;
+}
+tfoot{
+    background-color:coral;
+    color: white;
+}
